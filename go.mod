@@ -1,4 +1,4 @@
-module github.com/hashicorp/mdns
+module github.com/simpleiot/mdns
 
 go 1.13
 
